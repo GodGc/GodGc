@@ -1,4 +1,4 @@
-# GoodGc
+### 求知若饥，虚心若愚
 
 ![staus](https://github-readme-stats.vercel.app/api?username=GodGc&show_icons=true)
 
